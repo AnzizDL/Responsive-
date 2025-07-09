@@ -1,0 +1,22 @@
+<html>
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Reponsive</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="colonne1">jaune</div>
+        <div class="colonne2">rouge</div>
+        <div class="colonne3">vert</div>
+        <div class="colonne4">bleu</div>
+    </div>
+
+</body>
+
+</html>
